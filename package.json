@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio_02",
+  "version": "1.0.0",
+  "description": "Segundo ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio_02"
+  ],
+  "author": "Bruno Casal",
+  "license": "ISC"
+}

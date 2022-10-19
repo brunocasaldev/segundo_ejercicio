@@ -1,0 +1,2 @@
+const lista =["Nombre: Bruno Casal", 32, Boolean("Eres desarrollador: "|true), new Date(1990, 2,  28),libro = {Libro: "Tokio Blues", Autor: "Haruki Murakami", Fecha: new Date(1987, 0, 2), url: "https://es.wikipedia.org/wiki/Tokio_blues_(Norwegian_Wood)"}];
+console.log(lista);
